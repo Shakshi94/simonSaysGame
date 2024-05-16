@@ -1,4 +1,4 @@
-Simon Says Game
+<h1>Simon Says Game</h1>
 Welcome to Simon Says, a classic memory game where you have to remember and repeat a sequence of colors! Test your memory skills and see how far you can go.
 
 How to Play
